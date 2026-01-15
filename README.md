@@ -1,5 +1,5 @@
 # Deep-learning
-repo comtains DL Practices
+repo contains DL Practices
 # unit -1 
  -Perceptron
 
